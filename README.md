@@ -2,7 +2,7 @@
 
 <h2>Introdução</h2>
 
-<p>Esse é o desafio 02 do projeto criado pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>  chamado #boraCodar que tem com intuito desafiar os devs e testar suas habilidades na proramação.</p>
+<p>Esse é o desafio 02 do projeto criado pela <a href="https://www.rocketseat.com.br/">Rocketseat</a> chamado #boraCodar, cujo intuito é desafiar desafiar os devs e testar suas habilidades na proramação.</p>
 
 <h2>Tecnologias</h2>
 <h3>Front-End</h3>
