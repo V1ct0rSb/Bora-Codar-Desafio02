@@ -66,3 +66,9 @@
   font-size: 12px;
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 750px) {
+  .container {
+    flex-direction: column;
+  }
+}
